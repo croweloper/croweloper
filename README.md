@@ -1,9 +1,11 @@
 <h1 align='center'>Hi there 👋, I'm Dani 😎🚀</h1>
 
 <p align='center'>
-## Hola, mi nombre es Daniel Romero, Dani para la mayoria, Xen para los amigos y compañeros de aventuras
-
-... @dxends es el alias con el que normalmente me encontraran en redes
+Hola, mi nombre es Daniel Romero, Dani para la mayoria, Xen para los amigos y compañeros de aventuras
+... @dxends es el alias con el que normalmente me encontraran en redes.
+  
+  Soy desarrollador full stack en C#  y conosco teconologias como HTML, CSS, Java, JavaScript, Angular, Wordpress,  Python
+  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dxends)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/dxends)
