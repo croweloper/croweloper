@@ -1,15 +1,15 @@
-### Hi there 👋
+<h1 align='center'>Hi there 👋, I'm Dani 😎🚀</h1>
 
 ## Hola, mi nombre es Daniel Romero, Dani para la mayoria, Xen para los amigos y compañeros de aventuras
 
-...Xen10 es el alias con el que normalmente me encontraran en redes
+... @dxends es el alias con el que normalmente me encontraran en redes
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/croweloper)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/croweloper)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dxends)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/dxends)
 [![Web](https://img.shields.io/badge/Web-21759B?style=for-the-badge&logo=rss&logoColor=white)](https://www.croweloper.com)
+[![Web](https://img.shields.io/badge/Web-21759B?style=for-the-badge&logo=rss&logoColor=white)](https://www.dxends.com)
 
 <!--
-**croweloper/croweloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
