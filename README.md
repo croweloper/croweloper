@@ -1,5 +1,6 @@
 <h1 align='center'>Hi there 👋, I'm Dani 😎🚀</h1>
 
+<p align='center'>
 ## Hola, mi nombre es Daniel Romero, Dani para la mayoria, Xen para los amigos y compañeros de aventuras
 
 ... @dxends es el alias con el que normalmente me encontraran en redes
@@ -9,6 +10,8 @@
 [![Web](https://img.shields.io/badge/Web-21759B?style=for-the-badge&logo=rss&logoColor=white)](https://www.croweloper.com)
 [![Web](https://img.shields.io/badge/Web-21759B?style=for-the-badge&logo=rss&logoColor=white)](https://www.dxends.com)
 
+</p>
+  
 <!--
 
 Here are some ideas to get you started:
