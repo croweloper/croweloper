@@ -45,11 +45,15 @@ Hola, mi nombre es Daniel Romero, Dani para la mayoria, Xen para los amigos y co
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=">
 </a>
 
+<a href="" target="_bank" name="javascript">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=">
+</a>
+
 <a href="" target="_bank" name="c++">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label=">
 </a>
 
-
+![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
   
 <!--
 
