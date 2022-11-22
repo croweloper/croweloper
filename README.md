@@ -44,6 +44,7 @@ Hola, mi nombre es Daniel Romero, Dani para la mayoria, Xen para los amigos y co
 <a href="" target="_bank" name="javascript">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=">
 </a>
+
 ![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
 
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
@@ -56,6 +57,7 @@ Hola, mi nombre es Daniel Romero, Dani para la mayoria, Xen para los amigos y co
 ### 📚 Javascript Frameworks & Librarys
 
 ![Angular](https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label=)
+
 <a href="" target="_bank" name="node">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=">
 </a>
@@ -80,6 +82,7 @@ Hola, mi nombre es Daniel Romero, Dani para la mayoria, Xen para los amigos y co
 <a target="_bank" name="PostgreSQL">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=">
 </a>
+
 ![Microsoft SQL Server](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label=)
 
 ![MariaDB](https://img.shields.io/static/v1?style=for-the-badge&message=MariaDB&color=003545&logo=MariaDB&logoColor=FFFFFF&label=)
