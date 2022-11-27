@@ -1,4 +1,6 @@
 <h1 align='center'>Hi there 👋, I'm Dani 😎🚀</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dxends&label=Profile%20views&color=0e75b6&style=flat" alt="dxends" /> </p>
+
 
 <p align='center'>
 Hola, mi nombre es Daniel Romero, Dani para la mayoria, Xen para los amigos y compañeros de aventuras
