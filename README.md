@@ -1,10 +1,10 @@
 <h1 align='center'>Hi there 👋, I'm Dani 😎🚀</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dxends&label=Profile%20views&color=0e75b6&style=flat" alt="dxends" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dxdsdev&label=Profile%20views&color=0e75b6&style=flat" alt="dxdsdev" /> </p>
 
 
 <p align='center'>
 Hola, mi nombre es Daniel Romero, Dani para la mayoria, Xen para los amigos y compañeros de aventuras
-... @dxends es el alias con el que normalmente me encontraran en redes.
+... @dxdsdev es el alias con el que normalmente me encontraran en redes.
 </p>
 
 <p align='center'>
@@ -13,22 +13,22 @@ Hola, mi nombre es Daniel Romero, Dani para la mayoria, Xen para los amigos y co
 
 
 <p align='center'>
-  <a href="https://www.tiktok.com/@dxends">
+  <a href="https://www.tiktok.com/@dxdsdev">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=TikTok&color=000000&logo=TikTok&logoColor=FFFFFF&label=" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
-  <a href="https://www.youtube.com/dxends">
+  <a href="https://www.youtube.com/dxdsdev">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
-  <a href="https://twitter.com/dxends">
+  <a href="https://twitter.com/dxdsdev">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
-  <a href="https://www.linkedin.com/in/dxends">
+  <a href="https://www.linkedin.com/in/dxdsdev">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.croweloper.com">
+  <a href="https://www.dxdsdev.com">
     <img src="https://img.shields.io/badge/Web-21759B?style=for-the-badge&logo=rss&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
